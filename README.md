@@ -1,6 +1,6 @@
 # Online-Retail-Analysis
 
-*Data set form https://archive.ics.uci.edu/ml/*
+*Data set from https://archive.ics.uci.edu/ml/*
 
 ## Attribute details of data set
 
