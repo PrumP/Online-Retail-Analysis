@@ -13,7 +13,7 @@
 7. CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer. 
 8. Country: Country name. Nominal, the name of the country where each customer resides.
 
-## Main Questions try to answer in the analysis
+## Main questions try to answer in the analysis
 
 * What are the products that sell together.
 * Which are the products having least sales, what products can be added that going to sell better.
